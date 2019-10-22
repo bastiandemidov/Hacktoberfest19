@@ -37,3 +37,4 @@ Add your name to the list below, and send a PR
 | Demir Baş  | [ironhead690](https://github.com/ironhead690) |
 | M. Fari Madyan | [MuhammadFariMadyan](https://github.com/MuhammadFariMadyan) |
 | nickxla | [nickxla](https://github.com/nickxla) |
+| charlyTochi | [charlyTochi](https://github.com/charlyTochi) |
