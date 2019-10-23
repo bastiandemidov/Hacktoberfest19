@@ -38,3 +38,4 @@ Add your name to the list below, and send a PR
 | M. Fari Madyan | [MuhammadFariMadyan](https://github.com/MuhammadFariMadyan) |
 | nickxla | [nickxla](https://github.com/nickxla) |
 | charlyTochi | [charlyTochi](https://github.com/charlyTochi) |
+| Durosinmi Sikiru | [EngineerSk](https://github.com/EngineerSk) |
